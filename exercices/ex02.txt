@@ -1,0 +1,8 @@
+tu devra ecrire un fonction qui prendra en parametre un pointeur vers un int et tu devra changer sa valeur
+toujours pas de main autorisé;
+
+fonction autorisé : aucune
+
+la fonction serra prototypée de la façon suivante :
+
+void	ft_change_value(int *ptr);

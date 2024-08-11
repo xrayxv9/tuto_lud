@@ -1,0 +1,7 @@
+tu devra creer une fonction qui affichera la lettre placer en parametre de la fonction 
+fonction autorisé : write (disponible dans la librairie <unsitd.h>)
+la fonction serra a rendre sans le main mais tu peux évidemment en faire un pour tester ton prgramme
+
+la fonction serra prototypé de la facon suivante :
+
+void	ft_putchar(char c);
